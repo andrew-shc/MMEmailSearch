@@ -3,7 +3,10 @@ Enabling performant natural language search of your emails multi-modally (text a
 
 ## Project Goal A (by 10/26)
 - Search with images/documents input
-- Show email response with attachments
+- Show corresponding attachments with selected emails
 
 ## Project Goal B (by 10/31)
-- Improving vector embeddings, databases, and LLM integrations (in speed & mem usage)
+- Secure email data
+- Improve vector embeddings
+- Improve vector databases
+- Better LLM integration (locally)
